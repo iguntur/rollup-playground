@@ -1,0 +1,19 @@
+{
+	"name": "rollup-playground",
+	"version": "0.0.0",
+	"description": "How to use rollup",
+	"private": true,
+	"main": "index.js",
+	"scripts": {
+		"build": "npx rollup -c"
+	},
+	"author": {
+		"name": "Guntur Poetra",
+		"email": "poetra.guntur@gmail.com",
+		"url": "https://github.com/iguntur"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"rollup": "^0.63.5"
+	}
+}
